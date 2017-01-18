@@ -15,5 +15,5 @@ class ClasseTeste {
 }
 
 func HelenaInsuportavel() {
-    print("Nao enche meu saco")
+    print("Cala essa boca")
 }
