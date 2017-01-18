@@ -21,5 +21,10 @@ class ViewController: UIViewController {
     }
 
 
+    
+    func unicaFuncaoPossivel() {
+        let unicaConstantePossivel: String = "única constante possível"
+        print(unicaConstantePossivel)
+    }
 }
 
