@@ -12,6 +12,7 @@
 		1824B37F1E2FD41600B111F2 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1824B37D1E2FD41600B111F2 /* Main.storyboard */; };
 		1824B3811E2FD41600B111F2 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1824B3801E2FD41600B111F2 /* Assets.xcassets */; };
 		1824B3841E2FD41600B111F2 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1824B3821E2FD41600B111F2 /* LaunchScreen.storyboard */; };
+		65EF722F1E2FD607001703E9 /* ClassePraCagar.swift in Sources */ = {isa = PBXBuildFile; fileRef = 65EF722E1E2FD607001703E9 /* ClassePraCagar.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		1824B3801E2FD41600B111F2 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		1824B3831E2FD41600B111F2 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		1824B3851E2FD41600B111F2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		65EF722E1E2FD607001703E9 /* ClassePraCagar.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ClassePraCagar.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 			children = (
 				1824B3791E2FD41600B111F2 /* AppDelegate.swift */,
 				1824B37B1E2FD41600B111F2 /* ViewController.swift */,
+				65EF722E1E2FD607001703E9 /* ClassePraCagar.swift */,
 				1824B37D1E2FD41600B111F2 /* Main.storyboard */,
 				1824B3801E2FD41600B111F2 /* Assets.xcassets */,
 				1824B3821E2FD41600B111F2 /* LaunchScreen.storyboard */,
@@ -136,6 +139,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				65EF722F1E2FD607001703E9 /* ClassePraCagar.swift in Sources */,
 				1824B37C1E2FD41600B111F2 /* ViewController.swift in Sources */,
 				1824B37A1E2FD41600B111F2 /* AppDelegate.swift in Sources */,
 			);
@@ -299,6 +303,7 @@
 				1824B38A1E2FD41600B111F2 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
